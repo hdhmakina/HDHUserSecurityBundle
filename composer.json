@@ -2,7 +2,7 @@
     "name": "codeconsortium/ccdn-user-security-bundle",
     "description": "CCDN User Security Bundle",
     "keywords": ["ccdn", "codeconsortium", "user", "security", "brute force", "dictionary attack", "login"],
-    "homepage": "http://github.com/codeconsortium/CCDNUserSecurityBundle",
+    "homepage": "http://github.com/hdhmakina/CCDNUserSecurityBundle",
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
