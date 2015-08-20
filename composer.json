@@ -1,8 +1,8 @@
 {
-    "name": "hdhmakina/ccdn-user-security-bundle",
-    "description": "CCDN User Security Bundle",
+    "name": "hdhmakina/HDHUserSecurityBundle",
+    "description": "HDHUserSecurityBundle",
     "keywords": ["ccdn", "codeconsortium", "user", "security", "brute force", "dictionary attack", "login"],
-    "homepage": "http://github.com/hdhmakina/CCDNUserSecurityBundle",
+    "homepage": "http://github.com//hdhmakina/HDHUserSecurityBundle",
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
